@@ -3,3 +3,4 @@ pandas
 plotly
 reportlab
 matplotlib
+python-docx
